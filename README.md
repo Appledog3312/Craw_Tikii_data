@@ -26,9 +26,5 @@ Mục tiêu:
 │   └── templates/        # HTML (Flask render)
 ├── requirements.txt      # Thư viện Python cần cài
 └── README.md             # Tài liệu dự án
-# Trực quan hóa dữ liệu Tiki
 
-Dưới đây là hình ảnh kết quả chạy thử:
-
-![Kết quả trực quan hóa](https://raw.githubusercontent.com/Appledog3312/Craw_Tikii_data/app/static/homepages.png)
 
